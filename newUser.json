@@ -1,0 +1,16 @@
+{
+
+"name": "ictrlUser",
+
+"fullPath": "ictrlUser",
+
+"description": "ictrlUser",
+
+"encryptedPassword": "$6$9etLMKzy$8uZk9Jr/o2QfSkPVB9rvY3MlECkF78gsIGW0fOAo2JfeTulj2T2pQVcTvUdIX0pcxghrrXaNVLkzNIO8cySZC1",
+
+"partitionAccess": [{
+"name": "ictrl_part",
+ "role": "manager"
+}]
+
+}
